@@ -156,12 +156,12 @@
       "HEROKU_APP_NAME": {
         "description": "PUT YOUR HEROKU NAME HERE",
         "value": "",
-        "required": true  
+        "required": false  
       },
       "HEROKU_API_KEY": {
         "description": "PUT YOUR HEROKU API KEY",
         "value": "",
-        "required": true  
+        "required": false  
       },
       "SUDO": {
         "description": "Sudo Users Id",
